@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing call center performance across citie
 # 📞 Call Center Performance Dashboard — Power BI
 
 ![Dashboard Preview](dash.png)  
-*(Replace with your actual image path, e.g. `/images/callcenter_dashboard.png`)*
+
 
 ---
 ---
